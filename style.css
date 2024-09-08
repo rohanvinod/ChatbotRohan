@@ -1,0 +1,6 @@
+section[data-testid="stSidebar"] div.stButton button {
+    background-color: rgb(67, 103, 180);
+    color: rgb(255,255,255);
+    width: 200px;
+    height: 50px;
+}
